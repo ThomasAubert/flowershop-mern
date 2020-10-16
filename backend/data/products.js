@@ -1,6 +1,5 @@
-export const products = [
-  {
-    _id: '1',
+const products = [
+  {    
     name:  'flower one',
     image: '/img/1.jpg',
     description: 
@@ -12,8 +11,7 @@ export const products = [
       rating: 4.5,
       numReviews: 10
   },
-  {
-    _id: '2',
+  {    
     name:  'flower two',
     image: '/img/2.jpg',
     description: 
@@ -25,8 +23,7 @@ export const products = [
       rating: 4.7,
       numReviews: 5
   },
-  {
-    _id: '3',
+  {    
     name:  'flower three',
     image: '/img/3.jpg',
     description: 
@@ -38,8 +35,7 @@ export const products = [
       rating: 4.5,
       numReviews: 11
   },
-  {
-    _id: '4',
+  {    
     name:  'flower four',
     image: '/img/4.jpg',
     description: 
@@ -51,8 +47,7 @@ export const products = [
       rating: 4.5,
       numReviews: 10
   },
-  {
-    _id: '5',
+  {    
     name:  'flower five',
     image: '/img/5.jpg',
     description: 
@@ -64,8 +59,7 @@ export const products = [
       rating: 4.3,
       numReviews: 5
   },
-  {
-    _id: '6',
+  {   
     name:  'flower six',
     image: '/img/6.jpg',
     description: 
@@ -79,3 +73,4 @@ export const products = [
   },
 ]
 
+export default products;
