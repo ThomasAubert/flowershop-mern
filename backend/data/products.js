@@ -7,7 +7,7 @@ const products = [
       brand: 'Sun',
       category: 'Bouquet',
       price: 34.99,
-      counInStock: 2,
+      countInStock: 2,
       rating: 4.5,
       numReviews: 10
   },
@@ -19,7 +19,7 @@ const products = [
       brand: 'Sun',
       category: 'Bouquet',
       price: 29.99,
-      counInStock: 3,
+      countInStock: 3,
       rating: 4.7,
       numReviews: 5
   },
@@ -31,7 +31,7 @@ const products = [
       brand: 'Rain',
       category: 'flower',
       price: 17.99,
-      counInStock: 7,
+      countInStock: 7,
       rating: 4.5,
       numReviews: 11
   },
@@ -43,7 +43,7 @@ const products = [
       brand: 'Sun',
       category: 'Bouquet',
       price: 35.99,
-      counInStock: 5,
+      countInStock: 5,
       rating: 4.5,
       numReviews: 10
   },
@@ -55,7 +55,7 @@ const products = [
       brand: 'Rain',
       category: 'Bouquet',
       price: 26.99,
-      counInStock: 5,
+      countInStock: 5,
       rating: 4.3,
       numReviews: 5
   },
@@ -67,7 +67,7 @@ const products = [
       brand: 'Sun',
       category: 'flower',
       price: 19.99,
-      counInStock: 2,
+      countInStock: 2,
       rating: 4.4,
       numReviews: 8
   },
