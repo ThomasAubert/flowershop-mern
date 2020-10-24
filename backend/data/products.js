@@ -1,9 +1,9 @@
 const products = [
   {    
-    name:  'flower one',
+    name:  'Flower One',
     image: '/img/1.jpg',
     description: 
-      'beautiful flowers that are babababababa',
+      'Bouquet featuring striking beautiful hand-picked flowers and comes with its special design vase',
       brand: 'Sun',
       category: 'Bouquet',
       price: 34.99,
@@ -12,10 +12,10 @@ const products = [
       numReviews: 10
   },
   {    
-    name:  'flower two',
+    name:  'Flower Two',
     image: '/img/2.jpg',
     description: 
-      'beautiful flowers that are bbbbbbbbbb',
+      'Premium bouquet featuring our most beautiful hand-picked flowers',
       brand: 'Sun',
       category: 'Bouquet',
       price: 29.99,
@@ -24,10 +24,10 @@ const products = [
       numReviews: 5
   },
   {    
-    name:  'flower three',
+    name:  'Flower Three',
     image: '/img/3.jpg',
     description: 
-      'beautiful flowers that are ccccccccccccc',
+      'Beautiful bouquet featuring striking hand-picked flowers and comes with its special design vase',
       brand: 'Rain',
       category: 'flower',
       price: 17.99,
@@ -36,10 +36,10 @@ const products = [
       numReviews: 11
   },
   {    
-    name:  'flower four',
+    name:  'Flower Four',
     image: '/img/4.jpg',
     description: 
-      'beautiful flowers that are dddddddd',
+      'Beautiful bouquet featuring striking hand-picked flowers and comes with its special design vase',
       brand: 'Sun',
       category: 'Bouquet',
       price: 35.99,
@@ -48,10 +48,10 @@ const products = [
       numReviews: 10
   },
   {    
-    name:  'flower five',
+    name:  'Flower Five',
     image: '/img/5.jpg',
     description: 
-      'beautiful flowers that are eeeeeeeeee',
+      'Beautiful bouquet featuring striking hand-picked flowers and comes with its special design vase',
       brand: 'Rain',
       category: 'Bouquet',
       price: 26.99,
@@ -60,10 +60,10 @@ const products = [
       numReviews: 5
   },
   {   
-    name:  'flower six',
+    name:  'Flower Six',
     image: '/img/6.jpg',
     description: 
-      'beautiful flowers that are ffffffffff',
+      'Premium bouquet featuring our most beautiful hand-picked flowers',
       brand: 'Sun',
       category: 'flower',
       price: 19.99,
